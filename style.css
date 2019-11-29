@@ -1,3 +1,7 @@
 .list th {
     color: red;
 }
+
+body {
+    font-family: Arial;
+}
