@@ -1,0 +1,28 @@
+body {
+    background-color: lightgrey;
+}
+
+
+.TopList li {
+    display: inline;
+}
+
+.TopList {
+    text-align: right;
+    padding-right: 100px;
+}
+
+.topheader {
+    padding-top: 100px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+table tr th {
+    border: 1px solid black;
+    text-align: center;
+}
+
+table {
+    width: 100px;
+}
